@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Bienvenide
+# Mi Song Kim
 
-Hoola carepalo
+Designed by Kyuson Lim
